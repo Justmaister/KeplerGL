@@ -6,7 +6,7 @@ This project contains various data visualization projects using KeplerGL, a powe
 
 The metro visualization project processes Barcelona's metro data to create interactive visualizations using KeplerGL.
 
-###Visualitzation
+### Visualitzation
 
 ![Metro BCN GIF](assets/metro_bcn.gif)
 
@@ -47,6 +47,6 @@ The earthquakes visualization project provides an interactive map showing earthq
   - Track earthquake patterns and clusters
 
 
-###Visualitzation
+### Visualitzation
 
 ![Earthquackes GIF](assets/earhquackes.gif)
