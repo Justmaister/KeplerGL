@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+metro_bcn/data/stop_times.txt filter=lfs diff=lfs merge=lfs -text
